@@ -1,0 +1,21 @@
+@import './_header.css';
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,700;1,400&family=Inter:wght@400;700&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  --color-grey: #666666;
+  --color-black: rgb(0, 0, 0);
+}
+
+a{
+  text-decoration: none;
+}
+li{
+  list-style-type: none;
+}
